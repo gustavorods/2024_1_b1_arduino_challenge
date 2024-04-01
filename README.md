@@ -1,1 +1,2 @@
-# 2024_1_b1_arduino_challenge
+Tarefa SE - teams do dia 02/04 
+(tudo esta no tinkcard)
